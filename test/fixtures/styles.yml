@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  people: MyString
+  interior: MyString
+  exterior: MyString
+  amenity: MyString
+
+two:
+  people: MyString
+  interior: MyString
+  exterior: MyString
+  amenity: MyString

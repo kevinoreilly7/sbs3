@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  requirement_name: MyString
+  user_id: 1
+  sf_amount: 1
+  sf_price: 1.5
+  monthly_price: 1
+  location: MyString
+
+two:
+  requirement_name: MyString
+  user_id: 1
+  sf_amount: 1
+  sf_price: 1.5
+  monthly_price: 1
+  location: MyString
